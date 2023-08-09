@@ -1,2 +1,1 @@
-# git-test
-The Odin Project
+Second Github repo with Odin Project
